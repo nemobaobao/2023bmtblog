@@ -1,0 +1,77 @@
+一、软件推荐
+
+系统类：
+
+Homebrew --- mac下的软件安装工具
+
+Alfred --- 搜索启动工具，系统搜索的增强版
+
+Spectacle --- 窗口切换管理工具，方便高效的做窗口切换
+
+Bartender --- 强大的状态栏管理工具
+
+zsh + prezto --- 人性化的shell+很赞配置
+
+办公类：
+
+Thunderbird --- 电子邮件
+
+Office 2016 for mac --- 内在的iWorks其实也不错
+
+Chrome --- 浏览器
+
+搜狗输入法 or Squirrel --- Squirrel比较简洁，功能的话搜狗估计更加好些
+
+Evernote or 有道云笔记 --- Evernote支持Markdown，比较爽
+
+Marxico --- Markdown 编辑
+
+WorkFlowy --- 思考辅助软件，类似于思维导图
+
+Tunnelblick --- VPN连接工具
+
+OminiGraffle --- 画流程图软件，类似于windows下的viso
+
+开发类：
+
+Pycharm --- python IDE
+
+intelliJ IDEA --- Java IDE
+
+sublime --- 文本编辑器
+
+iTerm --- 强大的命令行工具
+
+Dash --- 技术文档阅读
+
+工具类：
+
+Parallel Desktop --- MAC 比较强大的虚拟机，感觉比Virtual Box好用
+
+Unarchiver --- 解压工具
+
+Mplayerx --- 视频播放工具
+
+迅雷 for mac --- 下载工具
+
+百度云 or 坚果云 --- 感觉这两个网盘算不错的
+
+二、MAC操作技巧
+
+command + tab   程序切换
+
+ctrl + tab    当前程序各个tab间的切换
+
+command + 空格    输入法切换
+
+command + ~   当前程序窗口切换
+
+command + m   最小化当前窗口
+
+command + q 关闭当前程序
+
+command + w 关闭当前窗口或者当前的tab
+
+command + t   当前程序中新建一个tab
+
+command + n   新建一个窗口
